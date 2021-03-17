@@ -203,11 +203,6 @@ class RedBlackTrees:
             x = x.left
         return x
 
-    def tree_maximum(self, x):
-        while x.right != self.NIL:
-            x = x.right
-        return x
-
     def inorder(self):
         if self.size == 0:
             print("Empty")
