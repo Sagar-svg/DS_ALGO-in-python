@@ -12,7 +12,7 @@
 
 2. ## AVL tree:
 
-### this program named RB_tree can implement:
+### this program named AVL can implement:
 
     1. insert
     2. delete
